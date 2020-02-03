@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(20, 158, 158);
+}
+
+nav {
+  width: 100%;
+  background-color: rgb(54, 59, 66);
+  display: flex;
+  position: relative;
+}
+
+h1 {
+  color: #ffff;
+  margin: 20px;
+  margin-left: 200px;
+}
+
+ul {
+  list-style-type: none;
+  padding-right: 30px;
+}
+
+li {
+  margin: 10px;
+}
+
+input {
+  width: 50%;
+  height: 30px;
+}
+
+button {
+  margin-left: 10px;
+  width: 100px;
+  height: 40px;
+  background-color: rgb(22, 243, 169);
+  border: none;
+  border-radius: 12px;
+}
